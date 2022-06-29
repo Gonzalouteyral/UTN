@@ -2,3 +2,4 @@ galletitas
 vaso 
 agua
 naranja
+banana
