@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 50px;
+    color: #cccccc;
+}
+
+.fondo{
+    background-color: black;
+    margin: 50px;
+    color: #cccccc;
+}
+
+h2{
+    padding: 15px;
+}
+
+h4{
+    padding: 15px;
+}
+
+h5{
+    font-size: 35px;
+    font-weight: 100;
+    padding: 15px;
+}
+
+h6{
+    font-size: 20px;
+    padding: 30px;
+    text-decoration: none;
+}
+
+li{
+    list-style:none
+}
